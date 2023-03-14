@@ -38,7 +38,8 @@ Installed the required packages...
 ## Rating distribution
 ![rating](https://user-images.githubusercontent.com/101876451/224900098-c0856735-6112-49ca-b9de-d54aa9c2ec95.png)
 
-
+## Correlation between variables
+![Scre (2)](https://user-images.githubusercontent.com/101876451/224900676-9026d6ab-ad5c-414e-9bfa-5dbdb710019c.png)
 
 
 
